@@ -32,12 +32,12 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
         if (role === 'admin') {
             window.location.href = 'https://sankar2.onrender.com';
         } else if (role === 'staff') {
-            window.location.href = 'https://siva-6qf5.onrender.com/';
+            window.location.href = 'https://sankar-3n41.onrender.com/';
         } else if (role === 'student') {
             if (username === '221it056') {
-                window.location.href = 'https://sankar-3n41.onrender.com/';
+                window.location.href = 'https://siva-6qf5.onrender.com/';
             } else {
-                window.location.href = 'https://sankar-3n41.onrender.com/';
+                window.location.href = 'https://siva-6qf5.onrender.com/';
             }
         }
     } else {
