@@ -8,15 +8,15 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     // Define valid credentials for admin, staff, and students
     const validCredentials = {
         admin: {
-            'kascit': 'siva@123',
-            'kascps': 'siva@123'
+            'kascit': 'kascit@123',
+            'kascps': 'kascit@123'
         },
         staff: {
             'staff': 'kascps@123',
             'staff1': 'kascps@123'
         },
         student: {
-            '221it056': 'kasc@123',
+            'student': 'kasc@123',
             '221it056': 'kasc@123'
         }
     };
