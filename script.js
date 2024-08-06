@@ -12,7 +12,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
             'kascps': 'kascit@123'
         },
         staff: {
-            'staff': 'kascps@123',
+            'kascpshod': 'kascps@123',
             'staff1': 'kascps@123'
         },
         student: {
